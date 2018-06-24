@@ -1,0 +1,30 @@
+Using license.f
+Using crack
+Used 
+Using auto.connector
+crack::on = C:\Lic"
+license = " "
+Bak = "license= 
+data= 01.01.2000 > 31.31.3018
+Time= 00:00 > 00:01
+Type= PRO"
+site=www.vk.com
+recaptha= 
+login="No"
+password="No"
+crack::used
+connect::browser "C:\Lic""
+
+Used::user
+::
+Bak = "license= 
+data= 01.01.2000 > 31.31.3018
+Time= 00:00 > 00:01
+Type= PRO"
+site=www.vk.com
+recaptha= 
+login="No"
+password="No"
+crack::used
+:C:\Lic"\Friends\license.ftr =Type*Create*=:
+::
